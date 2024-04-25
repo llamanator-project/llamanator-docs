@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkllamanator_docs=self.webpackChunkllamanator_docs||[]).push([[475],{8032:a=>{a.exports=JSON.parse('{"permalink":"/blog/tags/llamanator","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

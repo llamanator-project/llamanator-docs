@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkllamanator_docs=self.webpackChunkllamanator_docs||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Llamanator is alive!","permalink":"/blog/its-alive","unlisted":false}]}')}}]);
