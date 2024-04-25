@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkllamanator_docs=self.webpackChunkllamanator_docs||[]).push([[9267],{8289:a=>{a.exports=JSON.parse('[{"label":"llamanator","permalink":"/blog/tags/llamanator","count":1}]')}}]);
